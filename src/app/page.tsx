@@ -81,17 +81,17 @@ export default function LandingPage() {
       carouselItems={[
         {
           id: "1",
-          imageSrc: "http://img.b2bpic.net/free-photo/cyber-monday-sale-promotion-smartphone-with-neon-lights_23-2152033025.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cyber-monday-sale-promotion-smartphone-with-neon-lights_23-2152033025.jpg?_wi=1",
           imageAlt: "Website Portfolio 1",
         },
         {
           id: "2",
-          imageSrc: "http://img.b2bpic.net/free-photo/web-design-user-interface-concept_53876-120767.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/web-design-user-interface-concept_53876-120767.jpg?_wi=1",
           imageAlt: "Website Portfolio 2",
         },
         {
           id: "3",
-          imageSrc: "http://img.b2bpic.net/free-photo/contemporary-laptop-placework-construction-worker_329181-3495.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/contemporary-laptop-placework-construction-worker_329181-3495.jpg?_wi=1",
           imageAlt: "Website Portfolio 3",
         },
         {
@@ -218,7 +218,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/still-life-graphic-design-office_23-2151345424.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/cyber-monday-sale-promotion-smartphone-with-neon-lights_23-2152033025.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cyber-monday-sale-promotion-smartphone-with-neon-lights_23-2152033025.jpg?_wi=2",
           imageAlt: "laptop mockup website design",
         },
         {
@@ -233,7 +233,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/elegant-cozy-office-lifestyle_23-2149636247.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/web-design-user-interface-concept_53876-120767.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/web-design-user-interface-concept_53876-120767.jpg?_wi=2",
           imageAlt: "laptop mockup website design",
         },
         {
@@ -248,7 +248,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/blank-paper-wooden-surface_1253-198.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/contemporary-laptop-placework-construction-worker_329181-3495.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/contemporary-laptop-placework-construction-worker_329181-3495.jpg?_wi=2",
           imageAlt: "laptop mockup website design",
         },
       ]}
