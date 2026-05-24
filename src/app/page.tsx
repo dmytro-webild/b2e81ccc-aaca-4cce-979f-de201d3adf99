@@ -72,9 +72,9 @@ export default function LandingPage() {
         { id: "1", name: "Cleaning Co Landing", price: "High Conversion", variant: "Service Site", imageSrc: "http://img.b2bpic.net/free-photo/ecology-fresh-lush-natural-nature_53876-133745.jpg" },
         { id: "2", name: "Landscape Pros Site", price: "Growth Oriented", variant: "Service Site", imageSrc: "http://img.b2bpic.net/free-photo/go-green-responsibility-sustainable-concept_53876-13915.jpg" },
         { id: "3", name: "Pressure Wash Results", price: "Lead Focused", variant: "Service Site", imageSrc: "http://img.b2bpic.net/free-photo/construction-building-architecture-concept_53876-120128.jpg" },
-        { id: "4", name: "Exterior Paint Hub", price: "Premium Design", variant: "Service Site", imageSrc: "http://img.b2bpic.net/free-vector/gradient-abstract-technology-landing-page-template_23-2149088825.jpg" },
+        { id: "4", name: "Exterior Paint Hub", price: "Premium Design", variant: "Service Site", imageSrc: "http://img.b2bpic.net/free-vector/gradient-abstract-technology-landing-page-template_23-2149088825.jpg?_wi=1" },
         { id: "5", name: "Plumbing Solutions Site", price: "UX Focused", variant: "Service Site", imageSrc: "http://img.b2bpic.net/free-photo/man-servant-cooking-kitchen_23-2149530816.jpg" },
-        { id: "6", name: "Roofing Pro Portfolio", price: "Credibility Driven", variant: "Service Site", imageSrc: "http://img.b2bpic.net/free-vector/gradient-abstract-technology-landing-page-template_23-2149088825.jpg" },
+        { id: "6", name: "Roofing Pro Portfolio", price: "Credibility Driven", variant: "Service Site", imageSrc: "http://img.b2bpic.net/free-vector/gradient-abstract-technology-landing-page-template_23-2149088825.jpg?_wi=2" },
       ]}
       title="Portfolio of Results"
       description="See how we've transformed websites for local service businesses."
