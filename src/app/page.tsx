@@ -130,15 +130,15 @@ export default function LandingPage() {
       useInvertedBackground={false}
       background={{ variant: "rotated-rays-static" }}
       text="Ready to convert your local customers?"
-      buttons={[{ text: "Book a Consultation", href: "#" }]}
+      buttons={[{ text: "Book a Consultation", href: "#contact" }]}
     />
   </div>
 
   <div id="footer" data-section="footer">
       <FooterLogoReveal
       logoText="Decka Agency"
-      leftLink={{ text: "Privacy Policy", href: "#" }}
-      rightLink={{ text: "Contact Us", href: "#contact" }}
+      leftLink={{ text: "", href: "" }}
+      rightLink={{ text: "Contact Us", href: "mailto:hello@decka.agency" }}
     />
   </div>
       </ReactLenis>
