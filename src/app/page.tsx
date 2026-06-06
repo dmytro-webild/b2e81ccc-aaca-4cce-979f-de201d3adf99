@@ -116,7 +116,7 @@ export default function LandingPage() {
       textboxLayout="default"
       useInvertedBackground={false}
       testimonials={[
-        { id: "1", title: "Excellent Service", quote: "Decka Agency built our new site in record time.", name: "Sarah Johnson", role: "Owner", imageSrc: "http://img.b2bpic.net/free-photo/stylish-man-flannel-suit-glasses-standing-against-brick-wall_613910-6746.jpg" },
+        { id: "1", title: "Excellent Service", quote: "Decka Agency built our new site in record time.", name: "Sarah Johnson", role: "Owner", imageSrc: "http://img.b2bpic.net/free-photo/portrait-successful-entrepreneur-smiling-against-skyline_23-2149174112.jpg" },
         { id: "2", title: "Increased Leads", quote: "We saw a 30% increase in calls within the first month.", name: "Michael Chen", role: "Manager", imageSrc: "http://img.b2bpic.net/free-photo/successful-expert_1098-14503.jpg" },
         { id: "3", title: "Simple Process", quote: "Zero back-and-forth. Very efficient design.", name: "Emily Rodriguez", role: "Founder", imageSrc: "http://img.b2bpic.net/free-photo/woman-posing-with-cup-coffee_23-2149330971.jpg" },
       ]}
@@ -130,14 +130,14 @@ export default function LandingPage() {
       useInvertedBackground={false}
       background={{ variant: "rotated-rays-static" }}
       text="Ready to convert your local customers?"
-      buttons={[{ text: "Book a Consultation", href: "#contact" }]}
+      buttons={[{ text: "Book a Consultation", href: "mailto:hello@decka.agency" }]}
     />
   </div>
 
   <div id="footer" data-section="footer">
       <FooterLogoReveal
       logoText="Decka Agency"
-      leftLink={{ text: "", href: "" }}
+      leftLink={{ text: "Book a consult", href: "mailto:hello@decka.agency" }}
       rightLink={{ text: "Contact Us", href: "mailto:hello@decka.agency" }}
     />
   </div>
