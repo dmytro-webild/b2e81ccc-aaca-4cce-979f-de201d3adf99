@@ -64,7 +64,7 @@ export default function LandingPage() {
       textboxLayout="split"
       useInvertedBackground={false}
       metrics={[
-        { id: "m1", value: "45%", title: "Lead Increase", description: "Average conversion growth.", imageSrc: "http://img.b2bpic.net/free-photo/business-success-growth-visualization_23-2152011787.jpg" },
+        { id: "m1", value: "45%", title: "Lead Increase", description: "Average conversion growth.", imageSrc: "http://img.b2bpic.net/free-photo/business-success-growth-visualization_23-2152011787.jpg?_wi=1" },
         { id: "m2", value: "3x", title: "ROAS Improvement", description: "Boosted marketing efficiency.", imageSrc: "http://img.b2bpic.net/free-photo/businessman-using-tablet-with-digital-network-graphic-front-cityscape_9975-22113.jpg" },
         { id: "m3", value: "2.5s", title: "Load Speed", description: "Faster than industry standards.", imageSrc: "http://img.b2bpic.net/free-photo/multiethnic-group-colleagues-working-charts-analysis-with-digital-tablet-using-online-research-information-create-infographics-report-people-analyzing-diagrams-boardroom_482257-46896.jpg" }
       ]}
@@ -89,7 +89,7 @@ export default function LandingPage() {
           ] },
         { title: "Launch & Optimize", description: "Deploying for maximum lead generation.", icon: Rocket, mediaItems: [
             { imageSrc: "http://img.b2bpic.net/free-photo/contemporary-laptop-placework-construction-worker_329181-3495.jpg?_wi=2" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/business-success-growth-visualization_23-2152011787.jpg" }
+            { imageSrc: "http://img.b2bpic.net/free-photo/business-success-growth-visualization_23-2152011787.jpg?_wi=2" }
           ] }
       ]}
       title="Simple Three-Step Process"
