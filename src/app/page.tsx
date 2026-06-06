@@ -83,16 +83,16 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         { title: "Strategy & Planning", description: "We identify your local market goals.", icon: Target, mediaItems: [
-            { imageSrc: "http://img.b2bpic.net/free-photo/strategy-planning-concept-business_23-2149175338.jpg" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/business-team-discussing-financial-report-desk-wooden_23-2147779953.jpg" } 
+            { imageSrc: "http://img.b2bpic.net/free-photo/business-people-working-office-concept_23-2149187310.jpg" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/young-successful-business-team-working-on-project-together-modern-office_23-2147779946.jpg" } 
           ] },
         { title: "Design & Development", description: "Building a custom, conversion-first site.", icon: Layout, mediaItems: [
-            { imageSrc: "http://img.b2bpic.net/free-photo/web-design-development_53876-125586.jpg" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/html-system-code-languages_23-2150036329.jpg" }
+            { imageSrc: "http://img.b2bpic.net/free-photo/programming-coding-background-digital-code-concept_23-2148767962.jpg" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/web-developer-working-website-template_23-2147779950.jpg" }
           ] },
         { title: "Launch & Optimize", description: "Deploying for maximum lead generation.", icon: Rocket, mediaItems: [
-            { imageSrc: "http://img.b2bpic.net/free-photo/business-people-growth-finance-chart_23-2149163234.jpg" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/data-analysis-report-digital-marketing-business-metrics_23-2149219389.jpg" }
+            { imageSrc: "http://img.b2bpic.net/free-photo/positive-business-woman-analyzing-financial-charts_23-2147779956.jpg" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/creative-team-analyzing-charts-graphs_23-2147779948.jpg" }
           ] }
       ]}
       title="Simple Three-Step Process"
