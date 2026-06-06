@@ -83,12 +83,15 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         { title: "Strategy & Planning", description: "We identify your local market goals.", icon: Target, mediaItems: [
-            { imageSrc: "http://img.b2bpic.net/free-photo/home-repair-renovation-interior-design-concept_53876-125419.jpg" }
+            { imageSrc: "http://img.b2bpic.net/free-photo/home-repair-renovation-interior-design-concept_53876-125419.jpg" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/home-repair-renovation-interior-design-concept_53876-125419.jpg" } 
           ] },
         { title: "Design & Development", description: "Building a custom, conversion-first site.", icon: Layout, mediaItems: [
+            { imageSrc: "http://img.b2bpic.net/free-photo/manly-construction-worker-work_329181-3752.jpg" },
             { imageSrc: "http://img.b2bpic.net/free-photo/manly-construction-worker-work_329181-3752.jpg" }
           ] },
         { title: "Launch & Optimize", description: "Deploying for maximum lead generation.", icon: Rocket, mediaItems: [
+            { imageSrc: "http://img.b2bpic.net/free-photo/business-success-growth-visualization_23-2152011787.jpg?_wi=2" },
             { imageSrc: "http://img.b2bpic.net/free-photo/business-success-growth-visualization_23-2152011787.jpg?_wi=2" }
           ] }
       ]}
