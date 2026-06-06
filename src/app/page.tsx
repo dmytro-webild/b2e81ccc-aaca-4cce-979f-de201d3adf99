@@ -83,16 +83,16 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         { title: "Strategy & Planning", description: "We identify your local market goals.", icon: Target, mediaItems: [
-            { imageSrc: "http://img.b2bpic.net/free-photo/home-repair-renovation-interior-design-concept_53876-125419.jpg?_wi=1" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/home-repair-renovation-interior-design-concept_53876-125419.jpg?_wi=2" } 
+            { imageSrc: "http://img.b2bpic.net/free-photo/strategy-planning-concept-business_23-2149175338.jpg" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/business-team-discussing-financial-report-desk-wooden_23-2147779953.jpg" } 
           ] },
         { title: "Design & Development", description: "Building a custom, conversion-first site.", icon: Layout, mediaItems: [
-            { imageSrc: "http://img.b2bpic.net/free-photo/manly-construction-worker-work_329181-3752.jpg?_wi=1" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/manly-construction-worker-work_329181-3752.jpg?_wi=2" }
+            { imageSrc: "http://img.b2bpic.net/free-photo/web-design-development_53876-125586.jpg" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/html-system-code-languages_23-2150036329.jpg" }
           ] },
         { title: "Launch & Optimize", description: "Deploying for maximum lead generation.", icon: Rocket, mediaItems: [
-            { imageSrc: "http://img.b2bpic.net/free-photo/business-success-growth-visualization_23-2152011787.jpg?_wi=2" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/business-success-growth-visualization_23-2152011787.jpg?_wi=2" }
+            { imageSrc: "http://img.b2bpic.net/free-photo/business-people-growth-finance-chart_23-2149163234.jpg" },
+            { imageSrc: "http://img.b2bpic.net/free-photo/data-analysis-report-digital-marketing-business-metrics_23-2149219389.jpg" }
           ] }
       ]}
       title="Simple Three-Step Process"
