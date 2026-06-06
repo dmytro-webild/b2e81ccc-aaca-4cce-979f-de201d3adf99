@@ -7,7 +7,7 @@ import FeatureCardTwentyFive from '@/components/sections/feature/FeatureCardTwen
 import FooterLogoReveal from '@/components/sections/footer/FooterLogoReveal';
 import HeroBillboardRotatedCarousel from '@/components/sections/hero/HeroBillboardRotatedCarousel';
 import MetricCardEleven from '@/components/sections/metrics/MetricCardEleven';
-import NavbarStyleFullscreen from '@/components/navbar/NavbarStyleFullscreen/NavbarStyleFullscreen';
+import NavbarLayoutFloatingInline from '@/components/navbar/NavbarLayoutFloatingInline';
 
 import TestimonialCardTen from '@/components/sections/testimonial/TestimonialCardTen';
 import { Layout, Rocket, Target } from "lucide-react";
@@ -28,7 +28,7 @@ export default function LandingPage() {
     >
       <ReactLenis root>
   <div id="nav" data-section="nav">
-      <NavbarStyleFullscreen
+      <NavbarLayoutFloatingInline
       navItems={[
         {
           name: "Home",          id: "hero"},
@@ -36,6 +36,9 @@ export default function LandingPage() {
           name: "Services",          id: "process"}
       ]}
       brandName="Decka Agency"
+      button={{
+        text: "Contact",        href: "#contact"
+      }}
     />
   </div>
 
@@ -80,15 +83,12 @@ export default function LandingPage() {
       useInvertedBackground={false}
       features={[
         { title: "Strategy & Planning", description: "We identify your local market goals.", icon: Target, mediaItems: [
-            { imageSrc: "http://img.b2bpic.net/free-photo/home-repair-renovation-interior-design-concept_53876-125419.jpg" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/web-design-user-interface-concept_53876-120767.jpg?_wi=1" }
+            { imageSrc: "http://img.b2bpic.net/free-photo/home-repair-renovation-interior-design-concept_53876-125419.jpg" }
           ] },
         { title: "Design & Development", description: "Building a custom, conversion-first site.", icon: Layout, mediaItems: [
-            { imageSrc: "http://img.b2bpic.net/free-photo/manly-construction-worker-work_329181-3752.jpg" },
-            { imageSrc: "http://img.b2bpic.net/free-photo/web-design-user-interface-concept_53876-120767.jpg?_wi=1" }
+            { imageSrc: "http://img.b2bpic.net/free-photo/manly-construction-worker-work_329181-3752.jpg" }
           ] },
         { title: "Launch & Optimize", description: "Deploying for maximum lead generation.", icon: Rocket, mediaItems: [
-            { imageSrc: "http://img.b2bpic.net/free-photo/contemporary-laptop-placework-construction-worker_329181-3495.jpg?_wi=2" },
             { imageSrc: "http://img.b2bpic.net/free-photo/business-success-growth-visualization_23-2152011787.jpg?_wi=2" }
           ] }
       ]}
